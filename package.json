@@ -19,6 +19,8 @@
     "canvas": "^2.4.0",
     "ffmpeg": "0.0.4",
     "ffmpeg-binaries": "3.2.2-3",
-    "request": "2.81.0"
+    "request": "2.81.0",
+    "ascii-data-table": "^2.1.1"
+
   }
 }
