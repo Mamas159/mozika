@@ -1,4 +1,4 @@
-﻿const Discord = require('discord.js');
+NTU5ODYyMjk0MDI1MjA3OTIy.D3uVVw.m1WskFsm1AoOreBINjNSL6eOnBENTU5ODYyMjk0MDI1MjA3OTIy.D3uVVw.m1WskFsm1AoOreBINjNSL6eOnBENTU5ODYyMjk0MDI1MjA3OTIy.D3uVVw.m1WskFsm1AoOreBINjNSL6eOnBENTU5ODYyMjk0MDI1MjA3OTIy.D3uVVw.m1WskFsm1AoOreBINjNSL6eOnBE﻿const Discord = require('discord.js');
 const { Client, Util} = require('discord.js');
 const config = require("./config.json");
 const YouTube = require('simple-youtube-api');
@@ -416,4 +416,4 @@ function play(guild, song){
                 .setColor(['#f9fcfc'])
             return serverQueue.textChannel.sendEmbed(messagefunction1);
 }
-client.login("NTU1NzE1ODA3NjExNDUzNDQy.D3EGQg.I3Lb1oY8eNVwir6y4yWsTfYxJrQ");
+client.login("NTU5ODYyMjk0MDI1MjA3OTIy.D3uVVw.m1WskFsm1AoOreBINjNSL6eOnBE");
