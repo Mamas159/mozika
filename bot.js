@@ -1,4 +1,3 @@
-NTU5ODYyMjk0MDI1MjA3OTIy.D3uVVw.m1WskFsm1AoOreBINjNSL6eOnBENTU5ODYyMjk0MDI1MjA3OTIy.D3uVVw.m1WskFsm1AoOreBINjNSL6eOnBENTU5ODYyMjk0MDI1MjA3OTIy.D3uVVw.m1WskFsm1AoOreBINjNSL6eOnBENTU5ODYyMjk0MDI1MjA3OTIy.D3uVVw.m1WskFsm1AoOreBINjNSL6eOnBE﻿const Discord = require('discord.js');
 const { Client, Util} = require('discord.js');
 const config = require("./config.json");
 const YouTube = require('simple-youtube-api');
